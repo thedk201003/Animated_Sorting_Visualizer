@@ -2,7 +2,7 @@
   "name": "algorithm-visualizer-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anandman03.github.io/algorithm-visualizer-react-app",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
