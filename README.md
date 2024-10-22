@@ -1,2 +1,2 @@
-# Animated_Sorting_Visualizer
+# Sorting_Visualizer
  
